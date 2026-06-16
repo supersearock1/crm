@@ -1,6 +1,6 @@
 # CRM App Starter  
  
-Next.js starter using: 
+Next.js starter using:  
 
 - `src/app` directory structure (App Router)
 - `shadcn/ui` components 
